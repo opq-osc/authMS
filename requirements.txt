@@ -1,0 +1,5 @@
+botoy
+pillow
+aiofiles
+qrcode
+pydantic
